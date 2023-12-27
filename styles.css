@@ -1,0 +1,19 @@
+.center-card {
+    display: flex;
+    justify-content: center;
+    height: 10%;
+}
+
+.custom-title {
+    background-color: rgb(0, 0, 95) !important;
+}
+
+.custom-profile {
+    background-color: rgb(55, 92, 255) !important;
+    width: 60%;
+}
+
+.custom-interests {
+    background-color: rgb(58, 150, 211) !important;
+    width: 60%;  
+}
